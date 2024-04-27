@@ -14,9 +14,12 @@ YumTastic is a front-end web project built using Angular, designed to help users
 ## Technologies Used
 
 - **Angular:** YumTastic is built using the Angular framework.
+- **HTML, CSS, Bootstrap:** Front-end layout and design are done using HTML, CSS, and Bootstrap.
+- **TypeScript:** YumTastic's functionality is implemented using TypeScript.
 - **Service and Data Binding:** Angular services and data binding are utilized for efficient data management.
 - **API Integration:** External APIs are used to fetch recipe data.
 - **LocalStorage:** LocalStorage is employed to save favorite recipes and user-added recipes.
+
 
 ## CRUD Operations
 
