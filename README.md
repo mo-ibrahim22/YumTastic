@@ -42,7 +42,7 @@ To run YumTastic locally:
 4. Navigate to `http://localhost:4200/` in your browser.
 
 ## Demo
-Enjoy discovering and sharing delicious recipes with YumTastic! 🍽️
+Enjoy discovering and sharing delicious recipes with YumTastic! 🍽️..
 
 ![homepage](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/5a4ba051-f859-478b-a319-b1b032499966)
 ![Recipes](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/14d138b9-70c6-4a0e-836c-bfcb4d39396d)
