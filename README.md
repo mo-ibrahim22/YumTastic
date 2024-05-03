@@ -52,9 +52,8 @@ Enjoy discovering and sharing delicious recipes with YumTastic! 🍽️
 ![addrec](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/d783a09c-5008-402b-aad7-37a0ac82132c)
 ![editrec](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/fa70541b-139e-4707-a0d2-c87e7d432e91)
 ![about](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/a50ed957-7c73-45d8-b396-790516b1c3c3)
-![homephone](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/4ece2cad-333e-4f9a-9318-4ef9e1491f7f)
-![recipesphone](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/86462761-05b1-4e7f-a23c-100e690de5ac)
-![yourrecphone](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/1e7ea147-a7bc-40af-ac43-f4036332495e)
-![searchphone](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/9eb9470d-7731-4386-b0c9-cebe485eaaf2)
-
+![homephone](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/7f2d96d5-ecce-4cf8-880a-34dacd2f1458)
+![recipesphone](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/b66a9e75-5235-489f-8158-718f6fe9ba9b)
+![yourrecphone](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/7a217957-eb5e-4b7b-bdcd-139d58a2a572)
+![searchphone](https://github.com/mo-ibrahim22/YumTastic/assets/125498637/588dcca7-5ab1-4b8c-b94c-575c0cc7a9e1)
 
